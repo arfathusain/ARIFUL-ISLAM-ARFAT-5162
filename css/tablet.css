@@ -1,0 +1,29 @@
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /****** about********/
+    .arfat-0 {
+        font-size: 40px;
+        margin-top: 90px;
+    }
+
+    .arfat-1 {
+        margin-top: 50px;
+    }
+
+    .arfat-2 {
+        margin-top: 20px;
+    }
+
+    .arfat-3 {
+        margin-top: -10px;
+        font-size: 15px;
+    }
+
+    .arfat-4 {
+        margin-top: 90px;
+    }
+
+    /******* end******* */
+
+
+}
