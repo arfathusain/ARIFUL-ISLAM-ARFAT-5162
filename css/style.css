@@ -1,0 +1,30 @@
+
+/******************* start nav*********************** */
+.nav-item  {
+    
+    
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    display: flex;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #2c2c2c;
+    border-radius: 5px;
+  }
+  .nav-item:hover{
+    color: #000;
+    background-color: #c0c0c0;
+    box-shadow: inset 0px 2px 4px rgba(0,0,0,0.15), 
+                inset 0px 4px 8px rgba(0,0,0,0.15), 
+                inset 0px 8px 16px rgba(0,0,0,0.15);
+    transition: 0.2s;
+    transform: translateY(2px);
+    
+  }
+  nav{
+    background-color: white;
+  }
+
+  /******************* end nav********************** */
