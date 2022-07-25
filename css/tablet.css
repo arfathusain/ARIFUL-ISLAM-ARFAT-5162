@@ -24,6 +24,47 @@
     }
 
     /******* end******* */
+    /************** about-me************** */
+    .arfat-5 {
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        font-size: 40px;
+        color: orange;
+        margin-top: 80px;
+    }
+
+    .arfat-6 {
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        color: aliceblue;
+        margin-top: 20px;
+    }
+
+    .arfat-7 {
+        font-family: 'Poppins', sans-serif;
+        color: orange;
+        margin-top: 50px;
+    }
+
+    .arfat-8 {
+        font-family: 'Poppins', sans-serif;
+        color: aliceblue;
+        font-size: 10px;
+    }
+
+    .arfat-9 {
+        font-size: 10px;
+    }
+
+    .arfat-10 {
+        margin-top: 53px;
+    }
+
+    .arfat-11 {
+        padding-right: 40px;
+    }
+
+    /********** end  ************/
 
 
 }

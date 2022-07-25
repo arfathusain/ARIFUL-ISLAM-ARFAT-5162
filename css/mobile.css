@@ -3,6 +3,7 @@
     body {
         background-color: black;
     }
+
     /****** about********/
     .arfat-0 {
         text-align: center;
@@ -70,6 +71,55 @@
     .arfat-4 {
         margin: 0px auto;
     }
+
     /******* end******* */
+    /************** about-me************** */
+    .arfat-5 {
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        color: orange;
+        font-weight: bold;
+        margin-top: 80px;
+        font-size: 60px;
+    }
+
+    .arfat-6 {
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        color: #fff;
+        margin-top: 25px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .arfat-7 {
+        font-family: 'Poppins', sans-serif;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: orange;
+        margin-top: 60px;
+
+    }
+
+    .arfat-8 {
+        padding-left: 20px;
+        font-family: 'Poppins', sans-serif;
+        padding-right: 20px;
+        color: #fff;
+    }
+
+    .arfat-9 {
+        padding-left: 20px;
+        margin-top: 15px;
+        /* color: aqua; */
+        margin-bottom: 15px;
+
+    }
+
+    .arfat-10 {
+        margin: 50px auto;
+    }
+
+    /********** end  ************/
 
 }
