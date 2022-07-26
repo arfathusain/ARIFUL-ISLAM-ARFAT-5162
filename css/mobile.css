@@ -217,6 +217,9 @@
         padding-right: 60px;
         margin-top: 40px;
     }
+    .arfat-23{
+        margin: 0px auto;
+    }
 
     /************ end sarvice ***************/
     /************************ pricing **************************/
@@ -319,10 +322,44 @@
     }
 
     .arfat-22 {
-        margin-top: 60px;
+        margin-top: 30px;
     }
 
     /************************ end pricing **************************/
 
+    .bd-ttt{
+        margin-top:60px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .fs-3{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+    
+    }
+    .bd-mnm{
+        margin-top:15px;
+        margin-bottom: 15px;
+        font-size: 30px;
+    }
+    .arman-13{
+        margin-top: 30px;
+    }
+    .arfat-24{
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        color: orange;
+        font-size: 40px;
+        margin-top: 40px;
+    }
+    .arfat-25{
+        text-align: center;
+        color:aqua;
+        margin-top: 20px;
+    }
+    .bd-ttt{
+        margin-top:30px;
+        font-family: 'Poppins', sans-serif;
+
+    }
 
 }

@@ -258,4 +258,22 @@
     /************************ end pricing **************************/
 
 
+    .arfat-24{
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        color: orange;
+        font-size: 40px;
+        margin-top: 40px;
+    }
+    .arfat-25{
+        text-align: center;
+        color:aqua;
+        margin-top: 20px;
+    }
+    .bd-ttt{
+        margin-top:40px;
+        font-family: 'Poppins', sans-serif;
+
+    }
+
 }
