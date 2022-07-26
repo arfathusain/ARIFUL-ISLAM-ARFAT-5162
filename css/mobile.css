@@ -122,4 +122,24 @@
 
     /********** end  ************/
 
+
+    .arfat-12{
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        color: orange;
+        margin-top: 50px;
+        font-size: 40px;
+    }
+    .arfat-13{
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        margin-top: 15px;
+        color: #fff;
+    }
+    .arfat-14{
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+   
+
 }
